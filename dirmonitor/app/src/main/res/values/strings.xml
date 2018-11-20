@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dirmonitor</string>
+    <string name="action_settings">Settings</string>
+    <string name="firstline">connect to the directory server</string>
+    <string name="work">work</string>
+    <string name="label_host">host IP: </string>
+    <string name="label_port">listening port: </string>
+    <string name="label_connect">connect</string>
+
+</resources>
